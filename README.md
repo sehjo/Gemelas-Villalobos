@@ -1,5 +1,4 @@
-# Descripción del Proyecto Git: Página Web para Gemelas Villalobos
-
+# Descripción
 Este proyecto tiene como objetivo principal el desarrollo de una página web para la PYME "Gemelas Villalobos". El propósito fundamental de esta página web es aumentar la visibilidad de la empresa, permitiendo que un público más amplio conozca sus productos y servicios. Gemelas Villalobos se dedica a la confección de ropa, y la página web servirá como una plataforma para exhibir sus creaciones, compartir información sobre la marca y facilitar el contacto con clientes potenciales.
 
 
